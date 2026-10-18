@@ -1,0 +1,546 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-18T17:41:38.271092+00:00",
+  "title": "Design System: J's Home Renovations & Relevels LLC",
+  "extensions": {
+    "colorMeta": {
+      "ground": {
+        "role": "neutral",
+        "displayName": "Storm Slate",
+        "canonical": "oklch(27.9% 0.035 249.2)",
+        "tonalRamp": [
+          "oklch(15% 0.035 249.2)",
+          "oklch(25% 0.035 249.2)",
+          "oklch(35% 0.035 249.2)",
+          "oklch(48% 0.035 249.2)",
+          "oklch(60% 0.035 249.2)",
+          "oklch(72% 0.035 249.2)",
+          "oklch(84% 0.035 249.2)",
+          "oklch(95% 0.035 249.2)"
+        ]
+      },
+      "ground-2": {
+        "role": "neutral",
+        "displayName": "Wet Slate",
+        "canonical": "oklch(31.7% 0.041 247.9)",
+        "tonalRamp": [
+          "oklch(15% 0.041 247.9)",
+          "oklch(25% 0.041 247.9)",
+          "oklch(35% 0.041 247.9)",
+          "oklch(48% 0.041 247.9)",
+          "oklch(60% 0.041 247.9)",
+          "oklch(72% 0.041 247.9)",
+          "oklch(84% 0.041 247.9)",
+          "oklch(95% 0.041 247.9)"
+        ]
+      },
+      "ground-3": {
+        "role": "neutral",
+        "displayName": "Slate Puddle",
+        "canonical": "oklch(36.3% 0.046 248.1)",
+        "tonalRamp": [
+          "oklch(15% 0.046 248.1)",
+          "oklch(25% 0.046 248.1)",
+          "oklch(35% 0.046 248.1)",
+          "oklch(48% 0.046 248.1)",
+          "oklch(60% 0.046 248.1)",
+          "oklch(72% 0.046 248.1)",
+          "oklch(84% 0.046 248.1)",
+          "oklch(95% 0.046 248.1)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Rain-Washed Siding",
+        "canonical": "oklch(93.7% 0.008 91.5)",
+        "tonalRamp": [
+          "oklch(15% 0.008 91.5)",
+          "oklch(25% 0.008 91.5)",
+          "oklch(35% 0.008 91.5)",
+          "oklch(48% 0.008 91.5)",
+          "oklch(60% 0.008 91.5)",
+          "oklch(72% 0.008 91.5)",
+          "oklch(84% 0.008 91.5)",
+          "oklch(95% 0.008 91.5)"
+        ]
+      },
+      "paper-ink": {
+        "role": "neutral",
+        "displayName": "Storm Slate (ink on paper)",
+        "canonical": "oklch(27.9% 0.035 249.2)",
+        "tonalRamp": [
+          "oklch(15% 0.035 249.2)",
+          "oklch(25% 0.035 249.2)",
+          "oklch(35% 0.035 249.2)",
+          "oklch(48% 0.035 249.2)",
+          "oklch(60% 0.035 249.2)",
+          "oklch(72% 0.035 249.2)",
+          "oklch(84% 0.035 249.2)",
+          "oklch(95% 0.035 249.2)"
+        ]
+      },
+      "paper-muted": {
+        "role": "neutral",
+        "displayName": "Paper Muted",
+        "canonical": "oklch(45.4% 0.029 248.5)",
+        "tonalRamp": [
+          "oklch(15% 0.029 248.5)",
+          "oklch(25% 0.029 248.5)",
+          "oklch(35% 0.029 248.5)",
+          "oklch(48% 0.029 248.5)",
+          "oklch(60% 0.029 248.5)",
+          "oklch(72% 0.029 248.5)",
+          "oklch(84% 0.029 248.5)",
+          "oklch(95% 0.029 248.5)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Bone Ink",
+        "canonical": "oklch(95.8% 0.010 93.6)",
+        "tonalRamp": [
+          "oklch(15% 0.010 93.6)",
+          "oklch(25% 0.010 93.6)",
+          "oklch(35% 0.010 93.6)",
+          "oklch(48% 0.010 93.6)",
+          "oklch(60% 0.010 93.6)",
+          "oklch(72% 0.010 93.6)",
+          "oklch(84% 0.010 93.6)",
+          "oklch(95% 0.010 93.6)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Fog",
+        "canonical": "oklch(81.2% 0.021 248.1)",
+        "tonalRamp": [
+          "oklch(15% 0.021 248.1)",
+          "oklch(25% 0.021 248.1)",
+          "oklch(35% 0.021 248.1)",
+          "oklch(48% 0.021 248.1)",
+          "oklch(60% 0.021 248.1)",
+          "oklch(72% 0.021 248.1)",
+          "oklch(84% 0.021 248.1)",
+          "oklch(95% 0.021 248.1)"
+        ]
+      },
+      "level": {
+        "role": "primary",
+        "displayName": "Level-Tool Yellow",
+        "canonical": "oklch(83.4% 0.158 89.0)",
+        "tonalRamp": [
+          "oklch(15% 0.158 89.0)",
+          "oklch(25% 0.158 89.0)",
+          "oklch(35% 0.158 89.0)",
+          "oklch(48% 0.158 89.0)",
+          "oklch(60% 0.158 89.0)",
+          "oklch(72% 0.158 89.0)",
+          "oklch(84% 0.158 89.0)",
+          "oklch(95% 0.158 89.0)"
+        ]
+      },
+      "level-bright": {
+        "role": "primary",
+        "displayName": "Struck-Bright Yellow",
+        "canonical": "oklch(88.8% 0.153 91.6)",
+        "tonalRamp": [
+          "oklch(15% 0.153 91.6)",
+          "oklch(25% 0.153 91.6)",
+          "oklch(35% 0.153 91.6)",
+          "oklch(48% 0.153 91.6)",
+          "oklch(60% 0.153 91.6)",
+          "oklch(72% 0.153 91.6)",
+          "oklch(84% 0.153 91.6)",
+          "oklch(95% 0.153 91.6)"
+        ]
+      },
+      "level-on-paper": {
+        "role": "primary",
+        "displayName": "Paper-Safe Level",
+        "canonical": "oklch(50.2% 0.103 87.0)",
+        "tonalRamp": [
+          "oklch(15% 0.103 87.0)",
+          "oklch(25% 0.103 87.0)",
+          "oklch(35% 0.103 87.0)",
+          "oklch(48% 0.103 87.0)",
+          "oklch(60% 0.103 87.0)",
+          "oklch(72% 0.103 87.0)",
+          "oklch(84% 0.103 87.0)",
+          "oklch(95% 0.103 87.0)"
+        ]
+      },
+      "vial": {
+        "role": "tertiary",
+        "displayName": "Vial Green",
+        "canonical": "oklch(86.8% 0.162 118.7)",
+        "tonalRamp": [
+          "oklch(15% 0.162 118.7)",
+          "oklch(25% 0.162 118.7)",
+          "oklch(35% 0.162 118.7)",
+          "oklch(48% 0.162 118.7)",
+          "oklch(60% 0.162 118.7)",
+          "oklch(72% 0.162 118.7)",
+          "oklch(84% 0.162 118.7)",
+          "oklch(95% 0.162 118.7)"
+        ]
+      },
+      "rain": {
+        "role": "secondary",
+        "displayName": "Rain Blue",
+        "canonical": "oklch(82.0% 0.096 245.5)",
+        "tonalRamp": [
+          "oklch(15% 0.096 245.5)",
+          "oklch(25% 0.096 245.5)",
+          "oklch(35% 0.096 245.5)",
+          "oklch(48% 0.096 245.5)",
+          "oklch(60% 0.096 245.5)",
+          "oklch(72% 0.096 245.5)",
+          "oklch(84% 0.096 245.5)",
+          "oklch(95% 0.096 245.5)"
+        ]
+      },
+      "error": {
+        "role": "neutral",
+        "displayName": "Error Coral",
+        "canonical": "oklch(83.4% 0.093 33.8)",
+        "tonalRamp": [
+          "oklch(15% 0.093 33.8)",
+          "oklch(25% 0.093 33.8)",
+          "oklch(35% 0.093 33.8)",
+          "oklch(48% 0.093 33.8)",
+          "oklch(60% 0.093 33.8)",
+          "oklch(72% 0.093 33.8)",
+          "oklch(84% 0.093 33.8)",
+          "oklch(95% 0.093 33.8)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Hairline on dark"
+      },
+      "line-on-paper": {
+        "role": "neutral",
+        "displayName": "Hairline on paper"
+      },
+      "field-stroke": {
+        "role": "neutral",
+        "displayName": "Control stroke"
+      },
+      "error-stroke": {
+        "role": "neutral",
+        "displayName": "Error stroke"
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Hero headline only; uppercase, one word may take level yellow."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Section headings; uppercase."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Service row names; uppercase."
+      },
+      "title-sm": {
+        "displayName": "Title Sm",
+        "purpose": "Step names; uppercase, no tracking."
+      },
+      "lede": {
+        "displayName": "Lede",
+        "purpose": "Line under a section heading, in fog or paper muted, max 52ch."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "All running copy."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Buttons, form labels and legends, phone number."
+      },
+      "numeral": {
+        "displayName": "Numeral",
+        "purpose": "Step numbers, tabular figures, paper-safe level."
+      }
+    },
+    "shadows": [],
+    "focus": {
+      "value": "outline: 3px solid var(--level); outline-offset: 3px; border-radius: 6px",
+      "purpose": "Global keyboard focus ring."
+    },
+    "motion": [
+      {
+        "name": "state-fast",
+        "value": "0.15s",
+        "purpose": "Field and chip border/background changes; button press."
+      },
+      {
+        "name": "state",
+        "value": "0.2s",
+        "purpose": "Button background/color and service-arrow fill."
+      },
+      {
+        "name": "confirm",
+        "value": "0.4s",
+        "purpose": "Hero hint color change to vial green when level."
+      },
+      {
+        "name": "press",
+        "value": "translateY(1px)",
+        "purpose": "Button :active nudge."
+      },
+      {
+        "name": "seam-wave",
+        "value": "SPEED 1.0, SWELL 3px, RIPPLE 1.5px, chop 0.6px; phases t*0.9, t*1.7, t*2.6; height 48px; x-step 20 in a 1200 viewBox; frequency scaled by width/1440",
+        "purpose": "Puddle seam water line."
+      },
+      {
+        "name": "scene-tilt",
+        "value": "MAX_TILT 4.2deg, SETTLE 1.8-3.0deg, DRAG_SENS 0.032deg/px, SNAP 0.45deg, LEVEL_EPS 0.06deg, IDLE_RESUME 4.5s",
+        "purpose": "Hero level scene interaction."
+      },
+      {
+        "name": "scene-crew-loop",
+        "value": "settled 1.8s -> jack fades in (dt*2.5) and lifts after 0.5s -> level hold 3.6s -> re-settle",
+        "purpose": "Idle autonomous leveling loop."
+      },
+      {
+        "name": "scene-bubble",
+        "value": "spring stiffness 60, damping 9",
+        "purpose": "Level bubble lag and wobble."
+      },
+      {
+        "name": "scene-rain",
+        "value": "150 drops phone / 320 desktop; velocity 520-1040px/s by depth; pointer push radius 70/110px; wind 0.16 +/- 0.11",
+        "purpose": "Rain field."
+      },
+      {
+        "name": "loop",
+        "value": "single shared requestAnimationFrame, dt capped at 0.05s, pause via IntersectionObserver",
+        "purpose": "All continuous motion."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "scene static and level, drag redraws on input; seams static; smooth scroll off",
+        "purpose": "prefers-reduced-motion: reduce."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "small-phone",
+        "value": "max-width: 379px"
+      },
+      {
+        "name": "phone-js",
+        "value": "max-width: 700px"
+      },
+      {
+        "name": "steps-3up",
+        "value": "min-width: 900px"
+      },
+      {
+        "name": "wide",
+        "value": "min-width: 1024px"
+      }
+    ],
+    "sceneMaterials": {
+      "sky": [
+        "#1b2a39",
+        "#30455a"
+      ],
+      "treeline": "#1a2a37",
+      "fog": "rgba(70,92,112,.55)",
+      "dirt": [
+        "#3d3a33",
+        "#25241f"
+      ],
+      "puddle": [
+        "#5d7489",
+        "#3b4d5e"
+      ],
+      "cinderBlock": [
+        "#8d9096",
+        "#6f7379",
+        "#5b5f65"
+      ],
+      "woodCap": "#9b7a4e",
+      "beam": "#272c33",
+      "siding": [
+        "#e7e3d8",
+        "#bdb8ab"
+      ],
+      "roof": "#3a4350",
+      "jack": [
+        "#9c1f1a",
+        "#d8382d",
+        "#8a1813"
+      ],
+      "level": [
+        "#ffd34d",
+        "#d9a417"
+      ],
+      "vial": [
+        "#e2f27f",
+        "#a9c63a"
+      ],
+      "windowLight": [
+        "rgba(255,214,140,.95)",
+        "rgba(255,170,80,.85)"
+      ],
+      "rain": "rgba(200,225,245,.18-.58)",
+      "note": "World materials painted inside the hero canvas only; not UI palette."
+    }
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The single yellow action: Free quote, Text this to J's.",
+      "html": "<a class=\"ds-btn ds-btn-main\" href=\"#\">Free quote</a>",
+      "css": ".ds-btn{display:inline-flex;align-items:center;justify-content:center;min-height:56px;min-width:180px;padding:0 10px;border-radius:12px;border:2px solid var(--level,#f2c230);font:800 16px/1.15 system-ui,-apple-system,\"Segoe UI\",\"Helvetica Neue\",Arial,sans-serif;text-decoration:none;cursor:pointer;transition:background .2s,color .2s,transform .15s} .ds-btn:active{transform:translateY(1px)} .ds-btn:focus-visible{outline:3px solid #f2c230;outline-offset:3px} .ds-btn-main{background:#f2c230;color:#1b2a39} .ds-btn-main:hover{background:#ffd651;border-color:#ffd651}"
+    },
+    {
+      "name": "Ghost Button",
+      "kind": "button",
+      "refersTo": "button-ghost",
+      "description": "Companion to the primary in a pair; yellow border, ink label on slate.",
+      "html": "<div style=\"background:#1b2a39;padding:16px\"><a class=\"ds-btn-ghost\" href=\"#\">What's a relevel?</a></div>",
+      "css": ".ds-btn-ghost{display:inline-flex;align-items:center;justify-content:center;min-height:56px;min-width:200px;padding:0 10px;border-radius:12px;border:2px solid #f2c230;background:transparent;color:#f3f1ea;font:800 16px/1.15 system-ui,-apple-system,\"Segoe UI\",\"Helvetica Neue\",Arial,sans-serif;text-decoration:none;transition:background .2s} .ds-btn-ghost:hover{background:rgba(242,194,48,.12)} .ds-btn-ghost:active{transform:translateY(1px)} .ds-btn-ghost:focus-visible{outline:3px solid #f2c230;outline-offset:3px}"
+    },
+    {
+      "name": "Text Input",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "Recessed slate field; stroke turns rain blue on hover and focus.",
+      "html": "<div class=\"ds-field\"><label for=\"ds-n\">Your name</label><input id=\"ds-n\" class=\"ds-input\" type=\"text\" placeholder=\"First and last name\"></div>",
+      "css": ".ds-field{background:#1b2a39;color:#f3f1ea;padding:16px;font-family:system-ui,-apple-system,\"Segoe UI\",\"Helvetica Neue\",Arial,sans-serif} .ds-field label{display:block;font-weight:800;font-size:16px;margin-bottom:8px} .ds-input{width:100%;box-sizing:border-box;font:500 17px/1.4 system-ui,-apple-system,\"Segoe UI\",\"Helvetica Neue\",Arial,sans-serif;color:#f3f1ea;background:#2a4055;border:2px solid rgba(243,241,234,.18);border-radius:12px;padding:14px;min-height:54px;transition:border-color .15s} .ds-input::placeholder{color:#9fb0bf} .ds-input:hover,.ds-input:focus{border-color:#8fcbff;outline:none}"
+    },
+    {
+      "name": "Choice Chip",
+      "kind": "chip",
+      "refersTo": "chip",
+      "description": "Single-select radio chip; selected inverts to bone ink.",
+      "html": "<div class=\"ds-chips\"><label class=\"ds-chip\"><input type=\"radio\" name=\"ds-j\" checked><span>Relevel</span></label><label class=\"ds-chip\"><input type=\"radio\" name=\"ds-j\"><span>Home set</span></label><label class=\"ds-chip\"><input type=\"radio\" name=\"ds-j\"><span>Renovation</span></label></div>",
+      "css": ".ds-chips{display:flex;flex-wrap:wrap;gap:10px;background:#1b2a39;padding:16px;font-family:system-ui,-apple-system,\"Segoe UI\",\"Helvetica Neue\",Arial,sans-serif} .ds-chip{position:relative} .ds-chip input{position:absolute;opacity:0;width:1px;height:1px} .ds-chip span{display:inline-flex;align-items:center;min-height:48px;padding:0 18px;border-radius:12px;background:#2a4055;color:#f3f1ea;border:2px solid rgba(243,241,234,.18);font-weight:700;cursor:pointer;transition:border-color .15s,background .15s,color .15s} .ds-chip span:hover,.ds-chip input:focus-visible+span{border-color:#8fcbff} .ds-chip input:checked+span{background:#f3f1ea;color:#1b2a39}"
+    },
+    {
+      "name": "Header",
+      "kind": "nav",
+      "refersTo": "header",
+      "description": "Wordmark left, tap-to-call number right; no nav links.",
+      "html": "<header class=\"ds-top\"><a class=\"ds-mark\" href=\"#\"><b>J's</b><span>Home Renovations<br>&amp; Relevels</span></a><a class=\"ds-phone\" href=\"#\"><svg viewBox=\"0 0 24 24\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M5 3h3.2l1.6 4.6-2.1 1.5a12 12 0 0 0 7.2 7.2l1.5-2.1L21 15.8V19a2 2 0 0 1-2.2 2A17 17 0 0 1 3 5.2 2 2 0 0 1 5 3z\"/></svg><span>(580) 775-1897</span></a></header>",
+      "css": ".ds-top{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 20px 6px;background:#1b2a39;color:#f3f1ea;font-family:system-ui,-apple-system,\"Segoe UI\",\"Helvetica Neue\",Arial,sans-serif} .ds-mark{display:flex;align-items:center;gap:10px;text-decoration:none;color:inherit;min-height:44px} .ds-mark b{font-size:30px;font-weight:900;letter-spacing:-.03em;line-height:1;color:#f2c230} .ds-mark span{font-size:11.5px;font-weight:800;text-transform:uppercase;letter-spacing:.06em;line-height:1.3} .ds-phone{display:inline-flex;align-items:center;gap:7px;min-height:44px;font-weight:800;font-size:16px;text-decoration:none;color:inherit;font-variant-numeric:tabular-nums} .ds-phone svg{color:#f2c230} .ds-phone:hover span{text-decoration:underline;text-underline-offset:4px;text-decoration-color:#f2c230}"
+    },
+    {
+      "name": "Service Row",
+      "kind": "custom",
+      "refersTo": "row-arrow",
+      "description": "Open hairline list of uppercase titles; only the circular arrow reacts.",
+      "html": "<ul class=\"ds-rows\"><li><a class=\"ds-row\" href=\"#\"><h3>Home sets</h3><span class=\"ds-arrow\"><svg viewBox=\"0 0 24 24\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></span></a></li><li><a class=\"ds-row\" href=\"#\"><h3>Relevels</h3><span class=\"ds-arrow\"><svg viewBox=\"0 0 24 24\" width=\"18\" height=\"18\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M5 12h14M13 6l6 6-6 6\"/></svg></span></a></li></ul>",
+      "css": ".ds-rows{list-style:none;margin:0;padding:8px 20px 0;background:#213446;color:#f3f1ea;border-top:1px solid rgba(243,241,234,.16);font-family:system-ui,-apple-system,\"Segoe UI\",\"Helvetica Neue\",Arial,sans-serif} .ds-rows li{border-bottom:1px solid rgba(243,241,234,.16)} .ds-row{display:flex;align-items:center;gap:16px;padding:20px 2px;min-height:64px;text-decoration:none;color:inherit;outline:none} .ds-row h3{flex:1;margin:0;font-size:clamp(1.6rem,7vw,2.3rem);font-weight:900;letter-spacing:-.02em;line-height:.95;text-transform:uppercase} .ds-arrow{flex:none;width:44px;height:44px;border-radius:50%;display:grid;place-items:center;border:2px solid rgba(243,241,234,.16);transition:background .2s,border-color .2s,color .2s} .ds-row:hover .ds-arrow,.ds-row:focus-visible .ds-arrow{background:#f2c230;border-color:#f2c230;color:#1b2a39} .ds-row:focus-visible .ds-arrow{outline:3px solid #f2c230;outline-offset:3px}"
+    },
+    {
+      "name": "Puddle Seam",
+      "kind": "custom",
+      "refersTo": "puddle-seam",
+      "description": "48px moving water line joining two bands (static snapshot here).",
+      "html": "<div class=\"ds-seam\"><div class=\"ds-band-a\"></div><svg viewBox=\"0 0 1200 48\" preserveAspectRatio=\"none\" width=\"100%\" height=\"48\"><path fill=\"#eceae4\" d=\"M0 25 C150 21 300 28 450 24 S750 20 900 26 S1100 23 1200 24 L1200 48 L0 48 Z\"/><path fill=\"none\" stroke=\"rgba(143,203,255,.35)\" stroke-width=\"2\" d=\"M0 25 C150 21 300 28 450 24 S750 20 900 26 S1100 23 1200 24\"/></svg><div class=\"ds-band-b\"></div></div>",
+      "css": ".ds-seam svg{display:block;background:#213446;margin-top:-1px} .ds-band-a{height:40px;background:#213446} .ds-band-b{height:40px;background:#eceae4}"
+    },
+    {
+      "name": "Section Heading + Lede",
+      "kind": "custom",
+      "refersTo": "headline",
+      "description": "900 uppercase headline over a muted lede.",
+      "html": "<div class=\"ds-head\"><h2>Is your home settling?</h2><p>A relevel lifts a settled home back to level.</p></div>",
+      "css": ".ds-head{background:#eceae4;color:#1b2a39;padding:32px 20px;font-family:system-ui,-apple-system,\"Segoe UI\",\"Helvetica Neue\",Arial,sans-serif} .ds-head h2{margin:0;font-size:clamp(2.1rem,9vw,3.6rem);font-weight:900;letter-spacing:-.02em;line-height:.95;text-transform:uppercase} .ds-head p{margin:18px 0 0;font-size:18px;line-height:1.55;color:#4a5866;max-width:52ch}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Back to Level in the Rain",
+    "overview": "A mobile home sits crooked under a storm-slate sky, and a crew comes out anyway and puts it back to level. Every surface of the system is drawn from that one scene: wet slate for ground, rain-washed siding for the light bands, and a single yellow spirit level whose bubble is the whole story. The yellow is the crew's tool, so it marks the one thing to do on any screen and the moment something reads true.\n\nThe voice is a working crew talking on the phone: heavy, uppercase, short headings in the device's own system face, then plain sentence-case body copy at a comfortable phone size. Density is low and single-column on phones, with big touch targets (44px minimum, 56px for primary actions). Bands of slate and paper are joined by puddle-surface seams that keep moving, so the page itself is weather.\n\nThe hero is a living canvas scene, not a photo: the visitor drags the home back to level themselves, and the level bubble confirms it.",
+    "keyCharacteristics": [
+      "Storm-slate ground with rain-washed paper bands; one yellow accent.",
+      "Heavy uppercase system type for headings; sentence-case body.",
+      "Flat UI chrome; depth comes from tonal bands and the painted scene.",
+      "One 12px radius across every control.",
+      "Moving puddle-wave seams between bands; motion is weather, not decoration."
+    ],
+    "rules": [
+      {
+        "name": "The One Bubble Rule",
+        "body": "Level yellow is the only accent in the UI chrome, and it means \"this is the action\" or \"this is true\". At most one yellow-filled control per viewport cluster; everything else is slate, paper, or ink.",
+        "section": "colors"
+      },
+      {
+        "name": "The Water Belongs to the Form Rule",
+        "body": "Rain blue is never a button fill or a headline color. It appears on input focus/hover and on the seams' water line, nowhere else.",
+        "section": "colors"
+      },
+      {
+        "name": "The Yellow-Off-Paper Rule",
+        "body": "Level yellow never sits as text on the paper band; use the paper-safe level there.",
+        "section": "colors"
+      },
+      {
+        "name": "The Shout-Then-Talk Rule",
+        "body": "Headings are 900-weight uppercase with tight tracking; everything below a heading is sentence case. Never set body or button text in uppercase.",
+        "section": "typography"
+      },
+      {
+        "name": "The House Stack Rule",
+        "body": "The system stack is the only typeface. Do not import a webfont; weight (400/600/700/800/900) and case carry all hierarchy.",
+        "section": "typography"
+      },
+      {
+        "name": "The Phone-First Column Rule",
+        "body": "Compose for one column at 375px first; wide layouts only split heading from content, they never add new content.",
+        "section": "layout"
+      },
+      {
+        "name": "The Thumb Rule",
+        "body": "Every interactive element is at least 44px tall; primary actions are 56px.",
+        "section": "layout"
+      },
+      {
+        "name": "The Weather-Not-Shadow Rule",
+        "body": "Controls never lift off the page with shadows; they sit in it. Recess with a lighter slate fill, emphasize with yellow, separate with hairlines.",
+        "section": "elevation"
+      },
+      {
+        "name": "The One Radius Rule",
+        "body": "Controls use 12px; nothing else gets a corner value. No cards, no pills on buttons.",
+        "section": "shapes"
+      },
+      {
+        "name": "The Water Line Rule",
+        "body": "Bands that change color between story chapters meet at a puddle seam, not a straight edge or a diagonal.",
+        "section": "components"
+      },
+      {
+        "name": "The One Loop Rule",
+        "body": "All continuous motion shares one requestAnimationFrame loop, each piece pauses when offscreen, and every motion has a reduced-motion state that still shows the finished picture.",
+        "section": "components"
+      }
+    ],
+    "dos": [
+      "**Do** keep level yellow for the single primary action, the true/level moment, and focus.",
+      "**Do** set headings in 900-weight uppercase system type with negative tracking, and everything else in sentence case.",
+      "**Do** join color bands with a moving puddle seam (48px, swell 3, ripple 1.5).",
+      "**Do** use the 12px radius and 2px strokes on every control, with 44px minimum and 56px primary touch targets.",
+      "**Do** recess inputs and chips with slate puddle fill and turn their stroke rain blue on hover and focus.",
+      "**Do** pause any animation offscreen and provide a static, complete reduced-motion state."
+    ],
+    "donts": [
+      "**Don't** add a second accent to the UI chrome; red, green and blue in the hero scene are world objects (jack, vial, rain), not palette.",
+      "**Don't** put drop shadows or gradients on UI controls or bands; shading belongs only inside the painted scene.",
+      "**Don't** import a webfont or use a display face other than the system stack.",
+      "**Don't** box content in cards; use open lists with hairline rules.",
+      "**Don't** set level yellow as text on the paper band.",
+      "**Don't** use stock imagery or icon-font glyphs; imagery is the drawn scene (or the crew's own work), icons are inline stroked SVG."
+    ]
+  }
+}
