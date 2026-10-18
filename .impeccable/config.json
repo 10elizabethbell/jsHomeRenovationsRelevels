@@ -80,6 +80,18 @@
         "value": "clamp(2.3rem,11vw,4.6rem)",
         "createdAt": "2026-10-18T17:43:36.816Z",
         "reason": "agent: deliberate one-off in the shipped pitch build; DESIGN.md documenter left it off the ramp on purpose (wordmark, hint, small print, promise, close title)"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "20px",
+        "createdAt": "2026-10-18T17:43:46.610Z",
+        "reason": "agent: hero promise fluid max, deliberate (Ellie's taste: 20px max one-liner)"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "4.6rem",
+        "createdAt": "2026-10-18T17:43:46.677Z",
+        "reason": "agent: close-section business-name fluid max, deliberate"
       }
     ]
   }
