@@ -2,6 +2,85 @@
   "detector": {
     "ignoreRules": [],
     "ignoreFiles": [],
-    "ignoreValues": []
+    "ignoreValues": [
+      {
+        "rule": "design-system-color",
+        "value": "rgb(214, 221, 227)",
+        "createdAt": "2026-10-18T17:43:35.979Z",
+        "reason": "agent: deliberate one-off in the shipped pitch build; DESIGN.md documenter left it off the ramp on purpose (scene hint text)"
+      },
+      {
+        "rule": "design-system-color",
+        "value": "rgb(255, 255, 255)",
+        "createdAt": "2026-10-18T17:43:36.052Z",
+        "reason": "agent: white label on Facebook-brand button"
+      },
+      {
+        "rule": "design-system-color",
+        "value": "rgb(20, 99, 212)",
+        "createdAt": "2026-10-18T17:43:36.125Z",
+        "reason": "agent: Facebook brand blue, third-party mark"
+      },
+      {
+        "rule": "design-system-color",
+        "value": "#0f56bd",
+        "createdAt": "2026-10-18T17:43:36.192Z",
+        "reason": "agent: Facebook brand blue hover"
+      },
+      {
+        "rule": "design-system-color",
+        "value": "#000",
+        "createdAt": "2026-10-18T17:43:36.261Z",
+        "reason": "agent: CSS mask-image alpha stop, not a rendered color"
+      },
+      {
+        "rule": "design-system-color",
+        "value": "#9fb0bf",
+        "createdAt": "2026-10-18T17:43:36.332Z",
+        "reason": "agent: deliberate one-off in the shipped pitch build; DESIGN.md documenter left it off the ramp on purpose (input placeholder tint)"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "30px",
+        "createdAt": "2026-10-18T17:43:36.401Z",
+        "reason": "agent: deliberate one-off in the shipped pitch build; DESIGN.md documenter left it off the ramp on purpose (wordmark, hint, small print, promise, close title)"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "11.5px",
+        "createdAt": "2026-10-18T17:43:36.470Z",
+        "reason": "agent: deliberate one-off in the shipped pitch build; DESIGN.md documenter left it off the ramp on purpose (wordmark, hint, small print, promise, close title)"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "15px",
+        "createdAt": "2026-10-18T17:43:36.540Z",
+        "reason": "agent: deliberate one-off in the shipped pitch build; DESIGN.md documenter left it off the ramp on purpose (wordmark, hint, small print, promise, close title)"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "11px",
+        "createdAt": "2026-10-18T17:43:36.610Z",
+        "reason": "agent: deliberate one-off in the shipped pitch build; DESIGN.md documenter left it off the ramp on purpose (wordmark, hint, small print, promise, close title)"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "14px",
+        "createdAt": "2026-10-18T17:43:36.677Z",
+        "reason": "agent: deliberate one-off in the shipped pitch build; DESIGN.md documenter left it off the ramp on purpose (wordmark, hint, small print, promise, close title)"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "clamp(17px,4.6vw,20px)",
+        "createdAt": "2026-10-18T17:43:36.748Z",
+        "reason": "agent: deliberate one-off in the shipped pitch build; DESIGN.md documenter left it off the ramp on purpose (wordmark, hint, small print, promise, close title)"
+      },
+      {
+        "rule": "design-system-font-size",
+        "value": "clamp(2.3rem,11vw,4.6rem)",
+        "createdAt": "2026-10-18T17:43:36.816Z",
+        "reason": "agent: deliberate one-off in the shipped pitch build; DESIGN.md documenter left it off the ramp on purpose (wordmark, hint, small print, promise, close title)"
+      }
+    ]
   }
 }
