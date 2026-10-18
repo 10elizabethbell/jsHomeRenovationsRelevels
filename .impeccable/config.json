@@ -2,13 +2,6 @@
   "detector": {
     "ignoreRules": [],
     "ignoreFiles": [],
-    "ignoreValues": [
-      {
-        "rule": "cramped-padding",
-        "value": "<ul> \"rows\": children flush against border-top on top (no inset)",
-        "createdAt": "2026-10-18T17:33:55.167Z",
-        "reason": "agent: rows are a hairline-ruled list; each row has 20px vertical padding inside, the top rule is the list's first divider, not a container edge"
-      }
-    ]
+    "ignoreValues": []
   }
 }
